@@ -6,9 +6,9 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ![](/huddle-landing-page.jpg)
 
-Link:
+Link: https://lino-otm.github.io/Huddle-landing-page-with-a-single-introductory-section/
 
-### Built with:
+### Built with: 
 
 - HTML
 - CSS
