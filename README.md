@@ -8,7 +8,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 Link:
 
-### Built with:
+### Built with: https://lino-otm.github.io/Huddle-landing-page-with-a-single-introductory-section/
 
 - HTML
 - CSS
