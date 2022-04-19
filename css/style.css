@@ -1,0 +1,106 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: url("../images/bg-mobile.svg") no-repeat #674baf;
+  background-size: 100vw;
+}
+
+.hero {
+  width: 100%;
+  height: 12rem;
+  padding: 3rem 0 0 3.5rem;
+  box-sizing: border-box;
+}
+
+.hero__logo {
+  width: 15rem;
+}
+
+.main-container {
+  width: 100%;
+  padding: 0 3.5rem;
+  text-align: center;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+.main-container__img-container {
+  margin: 0 0 4rem 0;
+}
+.main-container__img {
+  width: 100%;
+}
+.main-container__title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  line-height: 3.6rem;
+}
+.main-container__text {
+  font-size: 1.6rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  line-height: 2.6rem;
+  margin-bottom: 3rem;
+}
+.main-container__btn {
+  display: block;
+  text-decoration: none;
+  color: #674baf;
+  background-color: #ffffff;
+  font-size: 1.5rem;
+  font-family: "Open Sans", sans-serif;
+  padding: 1.5rem;
+  border-radius: 3rem;
+  width: 20rem;
+  margin: 0 auto;
+  box-shadow: 0 5px 1rem rgba(42, 42, 42, 0.428);
+}
+.main-container__btn:hover {
+  background-color: #e882e8;
+  color: #ffffff;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 18rem;
+  width: 100%;
+}
+.footer__icons {
+  margin-bottom: 3rem;
+}
+
+.fa-brands {
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 100%;
+  padding: 1rem;
+  margin-left: 1.5rem;
+  font-size: 2rem;
+}
+.fa-brands:hover {
+  color: #e882e8;
+  border: 1px solid #e882e8;
+}
+
+.fa-facebook-f {
+  /* This is to make a perfect cirle */
+  width: 21px;
+  text-align: center;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.attribution a {
+  color: #ff7df0;
+}
+
+/*# sourceMappingURL=style.css.map */
